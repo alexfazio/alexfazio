@@ -9,3 +9,13 @@ My work primarily involves helping businesses accelerate the adoption of generat
 ## Get in Touch
 
 My DMs are open on X/Twitter [@alxfazio](https://x.com/alxfazio)
+
+<div>
+    <a
+    href="https://x.com/alxfazio">
+        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/alxfazio/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>

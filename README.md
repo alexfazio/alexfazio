@@ -1,14 +1,17 @@
-# Hello, I'm [Alex](https://github.com/alexfazio)
+ **ai engineer @ [aig](https://dub.sh/steig-github)**
 
-[](https://github.com/teknium1/teknium1#hello-im-teknium1-)
+**mostly using:**
 
-I am a full-stack developer, an AI engineer, and co-founder of AI Garden (https://aigarden.io/), an independent AI consultancy.
+![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264)
+![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
 
-My work primarily involves helping businesses accelerate the adoption of generative AI to achieve business outcomes more quickly, with a particular focus on agentive AI, also known as agentic workflows.
+**currently studying:**
 
-## Get in Touch
+ ![Rust Badge](https://img.shields.io/badge/Rust-Language-informational?style=flat&logo=rust&logoColor=fafafa&color=bef264) 
 
-My DMs are open on X/Twitter [@alxfazio](https://x.com/alxfazio)
+**get in touch**
+
+my dms are open on x/twitter [@alxfazio](https://x.com/alxfazio)
 
 <div>
     <a

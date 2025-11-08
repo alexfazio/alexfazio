@@ -1,4 +1,4 @@
- **ai engineer @ [aig](https://dub.sh/steig-github)**
+ **ai engineer @ [aig](https://www.aigarden.io/)**
 
 **mostly using:**
 

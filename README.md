@@ -5,6 +5,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264)
 ![JS Badge](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=javascript&logoColor=fafafa&color=bef264)
 ![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
+![NVIM (short)](https://img.shields.io/badge/NVIM-Editor-informational?style=flat&logo=neovim&logoColor=fafafa&color=a5f3fc)
 
 **currently studying:**
 

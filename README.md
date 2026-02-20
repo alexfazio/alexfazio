@@ -22,8 +22,8 @@
 - 📄 **[devdocs-to-llm](https://github.com/alexfazio/devdocs-to-llm)** — turn any developer documentation into a gpt
 - 🔥 **[firecrawl-quickstarts](https://github.com/alexfazio/firecrawl-quickstarts)** — cookbooks for the firecrawl api
 - 🔬 **[ai_lab_tracker](https://github.com/alexfazio/ai_lab_tracker)** — monitors ai lab websites for changes and sends telegram notifications
-- 🤖 **synths** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
-- 🧫 **plankton** — real-time code quality enforcement for ai coding agents (coming soon)
+- 🤖 **[synths](https://github.com/alexfazio/synths)** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
+- 🧫 **[plankton](https://github.com/alexfazio/plankton)** — real-time code quality enforcement for ai coding agents (coming soon)
 
 **activity**
 

@@ -1,29 +1,43 @@
  **ai engineer @ [aig](https://www.aigarden.io/)**
 
-**mostly using:**
+**building with llms, agents, and developer tools**
 
-![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264)
-![JS Badge](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=javascript&logoColor=fafafa&color=bef264)
-![SQL Badge](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat&logo=postgresql&logoColor=fafafa&color=a5f3fc)
-![NVIM (short)](https://img.shields.io/badge/NVIM-Editor-informational?style=flat&logo=neovim&logoColor=fafafa&color=a5f3fc)
+![Python](https://img.shields.io/badge/Python-Language-informational?style=flat-square&logo=python&logoColor=fafafa&color=bef264)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=fafafa&color=bef264)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-informational?style=flat-square&logo=typescript&logoColor=fafafa&color=bef264)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-informational?style=flat-square&logo=postgresql&logoColor=fafafa&color=a5f3fc)
+![NVIM](https://img.shields.io/badge/NVIM-Editor-informational?style=flat-square&logo=neovim&logoColor=fafafa&color=a5f3fc)
 
-**currently studying:**
+**currently**
 
-![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) 
+- context engineering and harness engineering across llm ecosystems
+- building with claude agent sdk, openai agents sdk, opencode sdk
+
+**projects**
+
+- 🎬 **[viral-clips-crew](https://github.com/alexfazio/viral-clips-crew)** — crewai-powered video clip extractor
+- 📚 **[crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart)** — notebooks and cookbooks for crewai
+- 🔍 **[OpenPlexity-Pages](https://github.com/alexfazio/OpenPlexity-Pages)** — open-source perplexity pages alternative
+- 🛠️ **[cc-trace](https://github.com/alexfazio/cc-trace)** — intercept and debug claude code api requests
+- 📄 **[devdocs-to-llm](https://github.com/alexfazio/devdocs-to-llm)** — turn any developer documentation into a gpt
+- 🔥 **[firecrawl-quickstarts](https://github.com/alexfazio/firecrawl-quickstarts)** — cookbooks for the firecrawl api
+- 🔬 **[ai_lab_tracker](https://github.com/alexfazio/ai_lab_tracker)** — monitors ai lab websites for changes and sends telegram notifications
+- 🤖 **synths** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
+- 🧫 **plankton** — real-time code quality enforcement for ai coding agents (coming soon)
+
+**activity**
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/alexfazio)
 
 **get in touch**
 
 my dms are open on x/twitter [@alxfazio](https://x.com/alxfazio)
 
-<div>
-    <a
-    href="https://x.com/alxfazio">
-        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/alxfazio/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-        <a href="https://huggingface.co/alxfazio">
-        <img src="https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface&logoColor=white" />
-    </a>
-</div>
+[![X/Twitter](https://img.shields.io/badge/-@alxfazio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alxfazio)
+[![LinkedIn](https://img.shields.io/badge/-alxfazio-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxfazio/)
+[![HuggingFace](https://img.shields.io/badge/-alxfazio-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/alxfazio)
+[![Articles](https://img.shields.io/badge/-articles-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/alxfazio/articles)
+
+---
+
+> code is ephemeral — build fast, share openly, let the llm rewrite it

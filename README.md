@@ -15,15 +15,15 @@
 
 **projects**
 
-- 🎬 **[viral-clips-crew](https://github.com/alexfazio/viral-clips-crew)** — crewai-powered video clip extractor
-- 📚 **[crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart)** — notebooks and cookbooks for crewai
-- 🔍 **[OpenPlexity-Pages](https://github.com/alexfazio/OpenPlexity-Pages)** — open-source perplexity pages alternative
+- 🧫 **[plankton](https://github.com/alexfazio/plankton)** — real-time code quality enforcement for ai coding agents
+- 🤖 **[synths](https://github.com/alexfazio/synths)** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
 - 🛠️ **[cc-trace](https://github.com/alexfazio/cc-trace)** — intercept and debug claude code api requests
+- 🎬 **[viral-clips-crew](https://github.com/alexfazio/viral-clips-crew)** — crewai-powered video clip extractor
+- 📚 **[crewai-quickstart](https://github.com/alexfazio/crewAI-quickstart)** — notebooks and cookbooks for crewai
+- 🔍 **[openplexity-pages](https://github.com/alexfazio/OpenPlexity-Pages)** — open-source perplexity pages alternative
 - 📄 **[devdocs-to-llm](https://github.com/alexfazio/devdocs-to-llm)** — turn any developer documentation into a gpt
 - 🔥 **[firecrawl-quickstarts](https://github.com/alexfazio/firecrawl-quickstarts)** — cookbooks for the firecrawl api
 - 🔬 **[ai_lab_tracker](https://github.com/alexfazio/ai_lab_tracker)** — monitors ai lab websites for changes and sends telegram notifications
-- 🤖 **[synths](https://github.com/alexfazio/synths)** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
-- 🧫 **[plankton](https://github.com/alexfazio/plankton)** — real-time code quality enforcement for ai coding agents (coming soon)
 
 **activity**
 

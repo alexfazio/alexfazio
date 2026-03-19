@@ -16,7 +16,7 @@
 **projects**
 
 - ⬡ **[plankton](https://github.com/alexfazio/plankton)** — real-time code quality enforcement for ai coding agents
-- ༄ **[hermes-fly](https://github.com/alexfazio/hermes-fly)** — deploy a hermes agent in 5 minutes
+- ༄ **[hermes-fly](https://github.com/alexfazio/hermes-fly)** — configure, deploy, migrate, audit a hermes agent in <5 minutes
 - ◈ **[synths](https://github.com/alexfazio/synths)** — production-grade agent fleet on discord. spawn, manage, and scale claude code instances (coming soon)
 - ⊹ **[cc-trace](https://github.com/alexfazio/cc-trace)** — intercept and debug claude code api requests
 - ▷ **[viral-clips-crew](https://github.com/alexfazio/viral-clips-crew)** — crewai-powered video clip extractor
